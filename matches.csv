@@ -1,0 +1,993 @@
+,Date,HomeTeam,AwayTeam,FTR,rainy
+0,2012-03-31,Nurnberg,Bayern Munich,A,True
+1,2011-12-11,Stuttgart,Bayern Munich,A,False
+2,2011-08-13,Wolfsburg,Bayern Munich,A,False
+3,2011-11-27,Mainz,Bayern Munich,H,False
+4,2012-02-18,Freiburg,Bayern Munich,D,False
+5,2012-01-20,M'gladbach,Bayern Munich,H,True
+6,2012-02-04,Hamburg,Bayern Munich,D,False
+7,2012-04-21,Werder Bremen,Bayern Munich,A,False
+8,2011-09-18,Schalke 04,Bayern Munich,A,True
+9,2011-10-23,Hannover,Bayern Munich,H,True
+10,2011-10-01,Hoffenheim,Bayern Munich,D,False
+11,2012-03-03,Leverkusen,Bayern Munich,H,False
+12,2011-08-27,Kaiserslautern,Bayern Munich,A,True
+13,2012-03-17,Hertha,Bayern Munich,A,False
+14,2011-11-06,Augsburg,Bayern Munich,A,True
+15,2012-05-05,FC Koln,Bayern Munich,A,True
+16,2012-04-11,Dortmund,Bayern Munich,H,False
+17,2011-08-27,Leverkusen,Dortmund,D,True
+18,2011-12-17,Freiburg,Dortmund,A,True
+19,2012-02-18,Hertha,Dortmund,A,False
+20,2012-02-03,Nurnberg,Dortmund,A,False
+21,2011-08-13,Hoffenheim,Dortmund,H,False
+22,2011-10-29,Stuttgart,Dortmund,D,False
+23,2012-01-22,Hamburg,Dortmund,A,True
+24,2011-12-03,M'gladbach,Dortmund,D,True
+25,2012-04-14,Schalke 04,Dortmund,A,False
+26,2011-09-18,Hannover,Dortmund,H,True
+27,2012-03-25,FC Koln,Dortmund,A,False
+28,2012-03-10,Augsburg,Dortmund,D,False
+29,2012-04-07,Wolfsburg,Dortmund,A,False
+30,2011-11-19,Bayern Munich,Dortmund,A,False
+31,2011-10-14,Werder Bremen,Dortmund,A,False
+32,2011-09-24,Mainz,Dortmund,A,False
+33,2012-04-28,Kaiserslautern,Dortmund,A,False
+34,2011-12-18,Hansa Rostock,Dresden,D,True
+35,2012-03-02,Bochum,Dresden,A,False
+36,2012-03-16,Ein Frankfurt,Dresden,H,False
+37,2012-02-17,Paderborn,Dresden,D,True
+38,2011-08-06,Greuther Furth,Dresden,H,True
+39,2011-11-04,Fortuna Dusseldorf,Dresden,H,False
+40,2011-09-16,Ingolstadt,Dresden,H,False
+41,2011-07-15,Cottbus,Dresden,H,False
+42,2011-11-27,St Pauli,Dresden,H,False
+43,2012-05-06,Frankfurt FSV,Dresden,D,True
+44,2012-02-11,Union Berlin,Dresden,H,False
+45,2011-10-02,Munich 1860,Dresden,A,False
+46,2012-03-30,Aachen,Dresden,A,False
+47,2012-04-11,Karlsruhe,Dresden,H,False
+48,2011-10-22,Braunschweig,Dresden,A,False
+49,2012-04-21,Erzgebirge Aue,Dresden,D,False
+50,2011-08-26,Duisburg,Dresden,H,True
+51,2011-08-07,Frankfurt FSV,Duisburg,D,True
+52,2012-02-24,Dresden,Duisburg,H,True
+53,2011-12-18,Cottbus,Duisburg,D,True
+54,2011-07-17,Karlsruhe,Duisburg,H,True
+55,2012-04-11,Munich 1860,Duisburg,H,False
+56,2011-11-06,Aachen,Duisburg,D,True
+57,2012-02-12,Hansa Rostock,Duisburg,H,False
+58,2011-08-22,St Pauli,Duisburg,H,False
+59,2011-10-23,Ein Frankfurt,Duisburg,H,True
+60,2011-09-09,Greuther Furth,Duisburg,H,True
+61,2012-04-01,Ingolstadt,Duisburg,D,False
+62,2011-09-25,Bochum,Duisburg,H,False
+63,2012-04-20,Braunschweig,Duisburg,D,False
+64,2011-11-25,Erzgebirge Aue,Duisburg,A,True
+65,2012-03-25,Paderborn,Duisburg,A,False
+66,2012-05-06,Fortuna Dusseldorf,Duisburg,D,True
+67,2012-03-09,Union Berlin,Duisburg,D,False
+68,2011-11-07,Erzgebirge Aue,Ein Frankfurt,A,False
+69,2011-09-10,Cottbus,Ein Frankfurt,D,True
+70,2011-10-14,Bochum,Ein Frankfurt,A,False
+71,2011-08-21,Frankfurt FSV,Ein Frankfurt,A,False
+72,2011-09-26,Dresden,Ein Frankfurt,A,False
+73,2012-04-07,Duisburg,Ein Frankfurt,H,False
+74,2012-03-26,Union Berlin,Ein Frankfurt,A,False
+75,2011-07-15,Greuther Furth,Ein Frankfurt,A,False
+76,2012-05-06,Karlsruhe,Ein Frankfurt,H,True
+77,2011-10-30,Ingolstadt,Ein Frankfurt,D,True
+78,2012-02-13,Fortuna Dusseldorf,Ein Frankfurt,D,False
+79,2011-08-07,Braunschweig,Ein Frankfurt,A,True
+80,2012-02-26,Paderborn,Ein Frankfurt,H,False
+81,2011-12-19,St Pauli,Ein Frankfurt,H,False
+82,2012-03-11,Hansa Rostock,Ein Frankfurt,A,False
+83,2011-11-26,Munich 1860,Ein Frankfurt,H,True
+84,2012-04-23,Aachen,Ein Frankfurt,A,False
+85,2011-12-03,Stuttgart,FC Koln,D,True
+86,2011-12-16,Bayern Munich,FC Koln,H,True
+87,2011-10-22,Dortmund,FC Koln,H,False
+88,2011-08-13,Schalke 04,FC Koln,H,False
+89,2011-11-05,Werder Bremen,FC Koln,H,True
+90,2012-04-28,Freiburg,FC Koln,H,False
+91,2012-04-10,Mainz,FC Koln,H,False
+92,2012-04-15,M'gladbach,FC Koln,H,False
+93,2012-02-18,Nurnberg,FC Koln,H,False
+94,2012-02-05,Kaiserslautern,FC Koln,A,False
+95,2012-03-04,Hoffenheim,FC Koln,D,False
+96,2011-09-17,Leverkusen,FC Koln,A,False
+97,2012-03-31,Augsburg,FC Koln,H,True
+98,2011-10-01,Hertha,FC Koln,H,False
+99,2011-08-27,Hamburg,FC Koln,A,True
+100,2012-01-21,Wolfsburg,FC Koln,H,False
+101,2012-03-18,Hannover,FC Koln,H,False
+102,2011-08-06,Augsburg,Freiburg,D,True
+103,2011-09-24,Schalke 04,Freiburg,H,False
+104,2012-03-10,M'gladbach,Freiburg,D,False
+105,2011-09-10,Bayern Munich,Freiburg,H,True
+106,2012-04-22,Hannover,Freiburg,D,False
+107,2011-08-20,Werder Bremen,Freiburg,H,False
+108,2012-03-17,Hamburg,Freiburg,A,False
+109,2012-02-10,Wolfsburg,Freiburg,H,False
+110,2011-10-22,Kaiserslautern,Freiburg,H,False
+111,2011-11-26,Hoffenheim,Freiburg,D,True
+112,2012-02-25,Stuttgart,Freiburg,H,False
+113,2011-12-10,FC Koln,Freiburg,H,True
+114,2012-03-31,Leverkusen,Freiburg,A,True
+115,2012-05-05,Dortmund,Freiburg,H,True
+116,2012-04-10,Hertha,Freiburg,A,False
+117,2012-01-29,Mainz,Freiburg,H,False
+118,2011-11-05,Nurnberg,Freiburg,A,True
+119,2011-08-20,Bayern Munich,Hamburg,H,False
+120,2012-04-11,Hoffenheim,Hamburg,H,False
+121,2011-12-10,Mainz,Hamburg,D,True
+122,2011-10-16,Freiburg,Hamburg,A,True
+123,2012-03-31,Kaiserslautern,Hamburg,A,True
+124,2012-03-11,Schalke 04,Hamburg,H,False
+125,2012-04-21,Nurnberg,Hamburg,D,False
+126,2011-09-10,Werder Bremen,Hamburg,H,True
+127,2011-08-05,Dortmund,Hamburg,H,True
+128,2012-03-23,Wolfsburg,Hamburg,H,False
+129,2012-02-12,FC Koln,Hamburg,A,False
+130,2011-11-26,Hannover,Hamburg,D,True
+131,2012-05-05,Augsburg,Hamburg,H,True
+132,2011-09-23,Stuttgart,Hamburg,A,False
+133,2012-02-24,M'gladbach,Hamburg,D,True
+134,2011-11-05,Leverkusen,Hamburg,D,True
+135,2012-01-28,Hertha,Hamburg,A,False
+136,2012-01-28,Augsburg,Kaiserslautern,D,False
+137,2012-05-05,Hannover,Kaiserslautern,H,True
+138,2012-02-25,Mainz,Kaiserslautern,H,False
+139,2011-10-30,Hamburg,Kaiserslautern,D,True
+140,2011-10-15,Schalke 04,Kaiserslautern,A,False
+141,2011-12-11,Dortmund,Kaiserslautern,D,False
+142,2012-04-11,Leverkusen,Kaiserslautern,H,False
+143,2012-02-11,Bayern Munich,Kaiserslautern,H,False
+144,2011-09-10,M'gladbach,Kaiserslautern,H,True
+145,2011-08-06,Werder Bremen,Kaiserslautern,H,True
+146,2011-11-05,Hoffenheim,Kaiserslautern,D,True
+147,2011-08-20,FC Koln,Kaiserslautern,D,False
+148,2011-11-26,Nurnberg,Kaiserslautern,H,True
+149,2012-03-09,Stuttgart,Kaiserslautern,D,False
+150,2011-09-24,Wolfsburg,Kaiserslautern,H,False
+151,2012-03-24,Freiburg,Kaiserslautern,H,False
+152,2012-04-21,Hertha,Kaiserslautern,A,False
+153,2011-10-15,Union Berlin,Karlsruhe,H,False
+154,2011-11-18,Paderborn,Karlsruhe,H,True
+155,2012-04-29,Aachen,Karlsruhe,H,False
+156,2011-09-25,Hansa Rostock,Karlsruhe,D,False
+157,2011-12-09,Duisburg,Karlsruhe,H,True
+158,2011-12-03,Ein Frankfurt,Karlsruhe,H,True
+159,2012-04-15,Ingolstadt,Karlsruhe,H,False
+160,2012-04-08,Bochum,Karlsruhe,D,False
+161,2012-02-11,Braunschweig,Karlsruhe,D,False
+162,2011-10-29,Dresden,Karlsruhe,H,False
+163,2011-09-10,Fortuna Dusseldorf,Karlsruhe,H,True
+164,2012-03-12,St Pauli,Karlsruhe,H,True
+165,2011-08-21,Cottbus,Karlsruhe,H,False
+166,2012-02-26,Frankfurt FSV,Karlsruhe,H,False
+167,2012-03-24,Greuther Furth,Karlsruhe,H,False
+168,2011-08-07,Erzgebirge Aue,Karlsruhe,A,True
+169,2011-07-23,Munich 1860,Karlsruhe,H,True
+170,2011-09-24,Bayern Munich,Leverkusen,H,False
+171,2011-11-26,Hertha,Leverkusen,D,True
+172,2012-03-24,Schalke 04,Leverkusen,H,False
+173,2011-11-18,Kaiserslautern,Leverkusen,A,True
+174,2012-04-21,Hoffenheim,Leverkusen,A,False
+175,2012-04-08,Hamburg,Leverkusen,D,False
+176,2012-02-11,Dortmund,Leverkusen,H,False
+177,2012-02-25,FC Koln,Leverkusen,A,False
+178,2012-05-05,Nurnberg,Leverkusen,A,True
+179,2012-03-10,Wolfsburg,Leverkusen,H,False
+180,2012-01-28,Werder Bremen,Leverkusen,D,False
+181,2011-09-09,Augsburg,Leverkusen,A,True
+182,2011-10-15,M'gladbach,Leverkusen,D,False
+183,2011-12-10,Hannover,Leverkusen,D,True
+184,2011-08-07,Mainz,Leverkusen,H,True
+185,2011-10-28,Freiburg,Leverkusen,A,False
+186,2011-08-20,Stuttgart,Leverkusen,A,False
+187,2012-04-14,Kaiserslautern,Nurnberg,A,False
+188,2012-01-27,Hannover,Nurnberg,H,False
+189,2012-03-10,Mainz,Nurnberg,H,False
+190,2012-02-25,Werder Bremen,Nurnberg,A,False
+191,2012-04-28,Hoffenheim,Nurnberg,A,False
+192,2011-12-17,Leverkusen,Nurnberg,A,True
+193,2011-10-15,Wolfsburg,Nurnberg,H,False
+194,2012-02-12,Augsburg,Nurnberg,D,False
+195,2012-03-25,Stuttgart,Nurnberg,H,False
+196,2011-12-04,Hamburg,Nurnberg,H,False
+197,2011-11-19,Schalke 04,Nurnberg,H,False
+198,2011-09-11,FC Koln,Nurnberg,A,True
+199,2012-04-07,Freiburg,Nurnberg,D,False
+200,2011-08-06,Hertha,Nurnberg,A,True
+201,2011-10-29,Bayern Munich,Nurnberg,H,False
+202,2011-09-24,M'gladbach,Nurnberg,H,False
+203,2011-08-20,Dortmund,Nurnberg,H,False
+204,2012-04-01,Hoffenheim,Schalke 04,D,False
+205,2012-04-11,Nurnberg,Schalke 04,H,False
+206,2011-09-11,Wolfsburg,Schalke 04,H,True
+207,2012-01-28,FC Koln,Schalke 04,A,False
+208,2011-11-06,Hannover,Schalke 04,D,True
+209,2012-05-05,Werder Bremen,Schalke 04,A,True
+210,2012-03-03,Freiburg,Schalke 04,H,False
+211,2011-12-09,Hertha,Schalke 04,A,True
+212,2011-11-26,Dortmund,Schalke 04,H,True
+213,2011-10-23,Leverkusen,Schalke 04,A,True
+214,2012-03-18,Kaiserslautern,Schalke 04,A,False
+215,2012-04-22,Augsburg,Schalke 04,D,False
+216,2012-02-11,M'gladbach,Schalke 04,H,False
+217,2011-10-02,Hamburg,Schalke 04,A,False
+218,2012-02-26,Bayern Munich,Schalke 04,H,False
+219,2011-08-06,Stuttgart,Schalke 04,H,True
+220,2011-08-21,Mainz,Schalke 04,A,False
+221,2011-12-17,Wolfsburg,Stuttgart,H,True
+222,2011-11-04,Mainz,Stuttgart,H,False
+223,2012-01-21,Schalke 04,Stuttgart,H,False
+224,2011-08-26,Hertha,Stuttgart,H,True
+225,2012-03-30,Dortmund,Stuttgart,D,False
+226,2012-02-04,Leverkusen,Stuttgart,D,False
+227,2011-09-30,Kaiserslautern,Stuttgart,A,False
+228,2011-10-22,Nurnberg,Stuttgart,D,False
+229,2012-03-16,Hoffenheim,Stuttgart,A,False
+230,2012-04-10,Augsburg,Stuttgart,A,False
+231,2012-03-03,Hamburg,Stuttgart,A,False
+232,2012-04-28,Bayern Munich,Stuttgart,H,False
+233,2011-08-13,M'gladbach,Stuttgart,D,False
+234,2012-02-19,Hannover,Stuttgart,H,True
+235,2011-09-16,Freiburg,Stuttgart,A,False
+236,2012-04-21,FC Koln,Stuttgart,D,False
+237,2011-11-27,Werder Bremen,Stuttgart,H,False
+238,2011-11-19,M'gladbach,Werder Bremen,H,False
+239,2011-10-02,Hannover,Werder Bremen,H,False
+240,2012-04-07,FC Koln,Werder Bremen,D,False
+241,2012-03-17,Dortmund,Werder Bremen,H,False
+242,2012-04-13,Stuttgart,Werder Bremen,H,False
+243,2011-12-03,Bayern Munich,Werder Bremen,H,True
+244,2012-03-03,Hertha,Werder Bremen,H,False
+245,2012-01-21,Kaiserslautern,Werder Bremen,D,False
+246,2012-04-28,Wolfsburg,Werder Bremen,H,False
+247,2012-02-05,Freiburg,Werder Bremen,D,False
+248,2011-09-17,Nurnberg,Werder Bremen,D,False
+249,2012-02-18,Hamburg,Werder Bremen,A,False
+250,2011-10-21,Augsburg,Werder Bremen,D,False
+251,2011-08-14,Leverkusen,Werder Bremen,H,True
+252,2011-10-29,Mainz,Werder Bremen,A,False
+253,2011-08-27,Hoffenheim,Werder Bremen,A,True
+254,2011-12-17,Schalke 04,Werder Bremen,H,True
+255,2011-11-27,Braunschweig,Bochum,H,False
+256,2012-04-11,Aachen,Bochum,H,False
+257,2011-09-12,Dresden,Bochum,H,True
+258,2012-03-30,Ein Frankfurt,Bochum,H,False
+259,2011-12-17,Frankfurt FSV,Bochum,A,True
+260,2011-10-21,Karlsruhe,Bochum,D,False
+261,2012-02-12,St Pauli,Bochum,H,False
+262,2011-08-20,Union Berlin,Bochum,H,False
+263,2012-03-09,Paderborn,Bochum,D,False
+264,2012-05-06,Erzgebirge Aue,Bochum,H,True
+265,2011-11-05,Munich 1860,Bochum,A,True
+266,2012-03-18,Duisburg,Bochum,H,False
+267,2012-04-20,Cottbus,Bochum,D,False
+268,2011-07-18,Fortuna Dusseldorf,Bochum,H,True
+269,2012-02-25,Greuther Furth,Bochum,H,False
+270,2011-08-08,Hansa Rostock,Bochum,D,True
+271,2011-10-01,Ingolstadt,Bochum,A,False
+272,2012-03-24,Bayern Munich,Hannover,H,False
+273,2011-11-19,Wolfsburg,Hannover,H,False
+274,2012-04-14,Hamburg,Hannover,H,False
+275,2011-10-16,FC Koln,Hannover,H,True
+276,2011-09-24,Augsburg,Hannover,D,False
+277,2012-04-08,Schalke 04,Hannover,H,False
+278,2011-12-18,Kaiserslautern,Hannover,D,True
+279,2011-08-13,Nurnberg,Hannover,A,False
+280,2012-04-28,Leverkusen,Hannover,H,False
+281,2012-02-26,Dortmund,Hannover,H,False
+282,2012-02-11,Mainz,Hannover,D,False
+283,2012-01-21,Hoffenheim,Hannover,D,False
+284,2012-03-11,Werder Bremen,Hannover,H,False
+285,2012-02-04,Hertha,Hannover,A,False
+286,2011-10-29,M'gladbach,Hannover,H,False
+287,2011-09-10,Stuttgart,Hannover,H,True
+288,2011-12-03,Freiburg,Hannover,D,True
+289,2011-10-21,Fortuna Dusseldorf,Hansa Rostock,H,False
+290,2011-09-30,Erzgebirge Aue,Hansa Rostock,H,False
+291,2012-03-18,Karlsruhe,Hansa Rostock,D,False
+292,2012-02-05,Bochum,Hansa Rostock,H,False
+293,2011-08-14,Duisburg,Hansa Rostock,D,True
+294,2012-02-19,Aachen,Hansa Rostock,D,True
+295,2011-12-09,Paderborn,Hansa Rostock,H,True
+296,2012-03-04,Braunschweig,Hansa Rostock,H,False
+297,2012-04-29,Union Berlin,Hansa Rostock,H,False
+298,2011-07-24,Dresden,Hansa Rostock,D,False
+299,2011-11-06,Frankfurt FSV,Hansa Rostock,D,True
+300,2012-04-10,Cottbus,Hansa Rostock,A,False
+301,2011-09-16,Ein Frankfurt,Hansa Rostock,H,False
+302,2011-08-26,Ingolstadt,Hansa Rostock,H,True
+303,2011-12-03,Greuther Furth,Hansa Rostock,H,True
+304,2012-03-31,Munich 1860,Hansa Rostock,A,True
+305,2012-04-22,St Pauli,Hansa Rostock,H,False
+306,2011-09-25,Werder Bremen,Hertha,H,False
+307,2012-01-21,Nurnberg,Hertha,H,False
+308,2011-11-19,Freiburg,Hertha,D,False
+309,2011-10-15,Bayern Munich,Hertha,H,False
+310,2012-04-07,M'gladbach,Hertha,D,False
+311,2011-10-29,Wolfsburg,Hertha,A,False
+312,2011-08-21,Hannover,Hertha,D,False
+313,2011-08-13,Hamburg,Hertha,D,False
+314,2012-02-11,Stuttgart,Hertha,H,False
+315,2011-09-10,Dortmund,Hertha,A,True
+316,2012-02-25,Augsburg,Hertha,H,False
+317,2012-04-28,Schalke 04,Hertha,H,False
+318,2012-04-14,Leverkusen,Hertha,D,False
+319,2011-12-03,Kaiserslautern,Hertha,D,True
+320,2012-03-24,Mainz,Hertha,A,False
+321,2012-03-10,FC Koln,Hertha,H,False
+322,2011-12-17,Hoffenheim,Hertha,D,True
+323,2012-03-17,Augsburg,Mainz,H,False
+324,2011-10-01,Nurnberg,Mainz,D,False
+325,2011-08-13,Freiburg,Mainz,A,False
+326,2012-04-28,Hamburg,Mainz,D,False
+327,2012-02-17,Hoffenheim,Mainz,D,True
+328,2012-03-31,Werder Bremen,Mainz,A,True
+329,2011-12-18,M'gladbach,Mainz,H,True
+330,2012-01-22,Leverkusen,Mainz,H,True
+331,2012-04-07,Stuttgart,Mainz,H,False
+332,2011-12-13,FC Koln,Mainz,D,True
+333,2012-03-03,Dortmund,Mainz,H,False
+334,2011-10-22,Hertha,Mainz,D,False
+335,2011-08-28,Hannover,Mainz,D,False
+336,2012-04-14,Bayern Munich,Mainz,D,False
+337,2011-12-03,Wolfsburg,Mainz,D,True
+338,2011-09-17,Kaiserslautern,Mainz,H,False
+339,2012-02-04,Schalke 04,Mainz,D,False
+340,2012-04-29,Ein Frankfurt,Munich 1860,A,False
+341,2011-08-06,Cottbus,Munich 1860,A,True
+342,2012-04-15,Bochum,Munich 1860,D,False
+343,2012-03-23,Dresden,Munich 1860,A,False
+344,2011-10-14,Hansa Rostock,Munich 1860,H,False
+345,2011-09-25,Greuther Furth,Munich 1860,H,False
+346,2011-10-30,Duisburg,Munich 1860,A,True
+347,2011-08-19,Fortuna Dusseldorf,Munich 1860,H,True
+348,2012-03-14,Erzgebirge Aue,Munich 1860,D,False
+349,2011-12-17,Karlsruhe,Munich 1860,A,True
+350,2011-07-17,Braunschweig,Munich 1860,H,True
+351,2012-03-10,Frankfurt FSV,Munich 1860,H,False
+352,2012-04-08,Paderborn,Munich 1860,D,False
+353,2012-02-24,Union Berlin,Munich 1860,A,True
+354,2011-12-04,Aachen,Munich 1860,D,False
+355,2011-11-18,Ingolstadt,Munich 1860,A,True
+356,2011-09-11,St Pauli,Munich 1860,H,True
+357,2011-08-12,Bochum,St Pauli,A,True
+358,2012-04-13,Greuther Furth,St Pauli,H,False
+359,2012-03-18,Erzgebirge Aue,St Pauli,H,False
+360,2012-03-05,Munich 1860,St Pauli,D,False
+361,2011-12-02,Paderborn,St Pauli,D,True
+362,2011-10-01,Cottbus,St Pauli,A,False
+363,2012-04-07,Frankfurt FSV,St Pauli,D,False
+364,2011-12-11,Ingolstadt,St Pauli,H,False
+365,2012-02-17,Duisburg,St Pauli,A,True
+366,2011-09-19,Karlsruhe,St Pauli,A,True
+367,2011-10-28,Union Berlin,St Pauli,A,False
+368,2012-04-29,Dresden,St Pauli,H,False
+369,2011-11-19,Hansa Rostock,St Pauli,A,False
+370,2011-08-28,Braunschweig,St Pauli,H,False
+371,2011-07-25,Ein Frankfurt,St Pauli,D,False
+372,2012-04-02,Fortuna Dusseldorf,St Pauli,D,True
+373,2012-02-04,Aachen,St Pauli,H,False
+374,2011-08-06,FC Koln,Wolfsburg,A,True
+375,2012-03-03,Kaiserslautern,Wolfsburg,D,False
+376,2011-11-05,Dortmund,Wolfsburg,H,True
+377,2011-10-01,Leverkusen,Wolfsburg,H,False
+378,2011-10-22,Hamburg,Wolfsburg,D,False
+379,2011-12-10,Werder Bremen,Wolfsburg,H,True
+380,2012-02-19,Schalke 04,Wolfsburg,H,True
+381,2011-11-26,Augsburg,Wolfsburg,H,True
+382,2012-05-05,Stuttgart,Wolfsburg,H,True
+383,2012-03-31,Hertha,Wolfsburg,A,True
+384,2012-04-20,Mainz,Wolfsburg,D,False
+385,2011-08-19,M'gladbach,Wolfsburg,H,True
+386,2012-03-17,Nurnberg,Wolfsburg,A,False
+387,2011-09-17,Hoffenheim,Wolfsburg,H,False
+388,2012-04-11,Hannover,Wolfsburg,H,False
+389,2012-01-28,Bayern Munich,Wolfsburg,H,False
+390,2011-08-27,Freiburg,Wolfsburg,H,True
+391,2012-03-17,Leverkusen,M'gladbach,A,False
+392,2011-10-22,Hoffenheim,M'gladbach,H,False
+393,2012-05-05,Mainz,M'gladbach,A,True
+394,2011-08-28,Schalke 04,M'gladbach,H,False
+395,2012-02-18,Kaiserslautern,M'gladbach,A,False
+396,2011-09-17,Hamburg,M'gladbach,A,False
+397,2012-02-04,Wolfsburg,M'gladbach,D,False
+398,2012-04-01,Hannover,M'gladbach,H,False
+399,2011-08-07,Bayern Munich,M'gladbach,A,True
+400,2012-04-21,Dortmund,M'gladbach,H,False
+401,2011-12-10,Augsburg,M'gladbach,H,True
+402,2012-04-10,Werder Bremen,M'gladbach,D,False
+403,2012-03-04,Nurnberg,M'gladbach,H,False
+404,2012-01-29,Stuttgart,M'gladbach,A,False
+405,2011-11-05,Hertha,M'gladbach,A,True
+406,2011-11-25,FC Koln,M'gladbach,A,True
+407,2011-10-01,Freiburg,M'gladbach,H,False
+408,2012-02-06,Munich 1860,Cottbus,H,False
+409,2011-12-11,Dresden,Cottbus,H,False
+410,2011-10-28,Hansa Rostock,Cottbus,D,False
+411,2012-04-15,Paderborn,Cottbus,H,False
+412,2011-11-21,Bochum,Cottbus,A,False
+413,2011-07-22,Duisburg,Cottbus,A,True
+414,2012-03-04,Ein Frankfurt,Cottbus,H,False
+415,2011-08-13,Aachen,Cottbus,A,False
+416,2011-08-29,Erzgebirge Aue,Cottbus,D,True
+417,2012-04-05,Greuther Furth,Cottbus,H,False
+418,2012-02-17,Karlsruhe,Cottbus,H,True
+419,2012-03-25,St Pauli,Cottbus,D,False
+420,2011-10-16,Frankfurt FSV,Cottbus,A,True
+421,2011-12-02,Union Berlin,Cottbus,H,True
+422,2012-04-29,Ingolstadt,Cottbus,H,False
+423,2011-09-17,Braunschweig,Cottbus,H,False
+424,2011-09-24,Fortuna Dusseldorf,Cottbus,H,False
+425,2011-08-13,Paderborn,Greuther Furth,A,False
+426,2012-04-20,Frankfurt FSV,Greuther Furth,D,False
+427,2012-02-03,Dresden,Greuther Furth,H,False
+428,2012-04-10,Braunschweig,Greuther Furth,D,False
+429,2011-11-28,Fortuna Dusseldorf,Greuther Furth,H,False
+430,2012-03-02,Duisburg,Greuther Furth,A,False
+431,2011-08-26,Bochum,Greuther Furth,A,True
+432,2012-03-31,Erzgebirge Aue,Greuther Furth,D,True
+433,2011-07-23,Union Berlin,Greuther Furth,A,True
+434,2011-10-22,Cottbus,Greuther Furth,A,False
+435,2011-11-05,St Pauli,Greuther Furth,D,True
+436,2012-05-06,Hansa Rostock,Greuther Furth,D,True
+437,2011-09-18,Aachen,Greuther Furth,D,True
+438,2011-10-02,Karlsruhe,Greuther Furth,D,False
+439,2012-02-19,Ingolstadt,Greuther Furth,D,True
+440,2011-12-12,Ein Frankfurt,Greuther Furth,D,True
+441,2012-03-17,Munich 1860,Greuther Furth,A,False
+442,2011-11-20,Ein Frankfurt,Aachen,H,False
+443,2011-08-19,Hansa Rostock,Aachen,D,True
+444,2012-03-23,Frankfurt FSV,Aachen,H,False
+445,2011-09-09,Paderborn,Aachen,D,True
+446,2012-04-14,Duisburg,Aachen,H,False
+447,2011-10-16,Dresden,Aachen,D,True
+448,2012-05-06,Munich 1860,Aachen,A,True
+449,2011-12-18,Braunschweig,Aachen,D,True
+450,2012-02-10,Cottbus,Aachen,D,False
+451,2011-09-24,Union Berlin,Aachen,H,False
+452,2012-02-27,Fortuna Dusseldorf,Aachen,D,True
+453,2011-08-05,St Pauli,Aachen,H,True
+454,2012-03-09,Greuther Furth,Aachen,H,False
+455,2012-04-08,Ingolstadt,Aachen,D,False
+456,2011-10-28,Bochum,Aachen,H,False
+457,2011-11-26,Karlsruhe,Aachen,A,True
+458,2011-07-16,Erzgebirge Aue,Aachen,H,False
+459,2011-07-15,Frankfurt FSV,Union Berlin,D,False
+460,2012-05-06,Cottbus,Union Berlin,H,True
+461,2011-11-25,Hansa Rostock,Union Berlin,A,True
+462,2011-09-17,Duisburg,Union Berlin,D,False
+463,2012-03-02,Ingolstadt,Union Berlin,D,False
+464,2012-02-03,Paderborn,Union Berlin,H,False
+465,2012-03-16,Aachen,Union Berlin,A,False
+466,2011-10-23,Erzgebirge Aue,Union Berlin,D,True
+467,2012-04-01,Karlsruhe,Union Berlin,H,False
+468,2012-02-18,Bochum,Union Berlin,H,False
+469,2012-04-22,Fortuna Dusseldorf,Union Berlin,H,False
+470,2011-11-04,Braunschweig,Union Berlin,A,False
+471,2011-08-12,Dresden,Union Berlin,H,True
+472,2011-12-16,Greuther Furth,Union Berlin,H,True
+473,2011-09-30,Ein Frankfurt,Union Berlin,H,False
+474,2011-08-28,Munich 1860,Union Berlin,H,False
+475,2012-04-10,St Pauli,Union Berlin,H,False
+476,2011-11-18,Duisburg,Braunschweig,H,True
+477,2012-04-29,Bochum,Braunschweig,H,False
+478,2012-04-07,Dresden,Braunschweig,D,False
+479,2011-09-23,Frankfurt FSV,Braunschweig,D,False
+480,2011-10-14,Paderborn,Braunschweig,H,False
+481,2012-03-24,Fortuna Dusseldorf,Braunschweig,D,False
+482,2011-07-24,Aachen,Braunschweig,A,False
+483,2012-02-26,St Pauli,Braunschweig,D,False
+484,2012-03-11,Cottbus,Braunschweig,D,False
+485,2011-10-31,Greuther Furth,Braunschweig,A,False
+486,2011-12-09,Munich 1860,Braunschweig,H,True
+487,2011-09-09,Hansa Rostock,Braunschweig,D,True
+488,2012-02-05,Ein Frankfurt,Braunschweig,H,False
+489,2012-04-13,Union Berlin,Braunschweig,H,False
+490,2011-12-02,Ingolstadt,Braunschweig,A,True
+491,2012-02-20,Erzgebirge Aue,Braunschweig,D,False
+492,2011-08-12,Karlsruhe,Braunschweig,A,True
+493,2012-04-05,Union Berlin,Erzgebirge Aue,H,False
+494,2011-12-04,Bochum,Erzgebirge Aue,H,False
+495,2011-09-11,Frankfurt FSV,Erzgebirge Aue,D,True
+496,2012-03-25,Hansa Rostock,Erzgebirge Aue,A,False
+497,2011-09-23,St Pauli,Erzgebirge Aue,A,False
+498,2011-08-14,Munich 1860,Erzgebirge Aue,H,True
+499,2011-10-16,Greuther Furth,Erzgebirge Aue,H,True
+500,2011-10-29,Paderborn,Erzgebirge Aue,H,False
+501,2012-04-29,Duisburg,Erzgebirge Aue,H,False
+502,2012-04-14,Ein Frankfurt,Erzgebirge Aue,H,False
+503,2011-12-11,Aachen,Erzgebirge Aue,D,False
+504,2011-07-22,Ingolstadt,Erzgebirge Aue,D,True
+505,2011-11-20,Dresden,Erzgebirge Aue,A,False
+506,2011-08-20,Braunschweig,Erzgebirge Aue,D,False
+507,2012-02-05,Karlsruhe,Erzgebirge Aue,H,False
+508,2012-02-25,Cottbus,Erzgebirge Aue,H,False
+509,2012-03-10,Fortuna Dusseldorf,Erzgebirge Aue,H,False
+510,2011-07-17,Hansa Rostock,Paderborn,A,True
+511,2011-10-02,Duisburg,Paderborn,A,False
+512,2011-12-16,Fortuna Dusseldorf,Paderborn,A,True
+513,2012-04-22,Karlsruhe,Paderborn,H,False
+514,2012-03-03,Aachen,Paderborn,A,False
+515,2011-08-21,Dresden,Paderborn,A,False
+516,2011-08-28,Ein Frankfurt,Paderborn,D,False
+517,2011-09-18,Bochum,Paderborn,A,True
+518,2012-05-06,St Pauli,Paderborn,H,True
+519,2012-02-12,Greuther Furth,Paderborn,H,False
+520,2011-11-25,Frankfurt FSV,Paderborn,D,True
+521,2011-08-05,Union Berlin,Paderborn,H,True
+522,2012-04-11,Erzgebirge Aue,Paderborn,A,False
+523,2012-03-30,Braunschweig,Paderborn,D,False
+524,2011-10-21,Munich 1860,Paderborn,D,False
+525,2011-11-06,Cottbus,Paderborn,A,True
+526,2012-03-17,Ingolstadt,Paderborn,H,False
+527,2011-08-27,Nurnberg,Augsburg,H,True
+528,2012-03-24,Werder Bremen,Augsburg,D,False
+529,2011-11-20,Stuttgart,Augsburg,H,False
+530,2011-12-17,Hamburg,Augsburg,D,True
+531,2012-04-07,Bayern Munich,Augsburg,H,False
+532,2012-04-28,M'gladbach,Augsburg,D,False
+533,2012-02-04,Hoffenheim,Augsburg,D,False
+534,2011-10-30,FC Koln,Augsburg,H,True
+535,2011-12-04,Schalke 04,Augsburg,H,False
+536,2012-03-03,Hannover,Augsburg,D,False
+537,2011-09-17,Hertha,Augsburg,D,False
+538,2011-10-15,Mainz,Augsburg,A,False
+539,2012-02-18,Leverkusen,Augsburg,H,False
+540,2012-04-14,Wolfsburg,Augsburg,A,False
+541,2011-08-14,Kaiserslautern,Augsburg,D,True
+542,2011-10-01,Dortmund,Augsburg,H,False
+543,2012-01-21,Freiburg,Augsburg,H,False
+544,2011-11-20,Hamburg,Hoffenheim,H,False
+545,2012-01-28,Dortmund,Hoffenheim,H,False
+546,2012-03-24,M'gladbach,Hoffenheim,A,False
+547,2012-02-11,Werder Bremen,Hoffenheim,D,False
+548,2011-12-02,Leverkusen,Hoffenheim,H,True
+549,2011-10-15,Stuttgart,Hoffenheim,H,False
+550,2012-04-07,Kaiserslautern,Hoffenheim,A,False
+551,2012-03-10,Bayern Munich,Hoffenheim,H,False
+552,2011-09-25,FC Koln,Hoffenheim,H,False
+553,2012-05-05,Hertha,Hoffenheim,H,True
+554,2011-09-10,Mainz,Hoffenheim,A,True
+555,2011-10-29,Schalke 04,Hoffenheim,H,False
+556,2011-08-06,Hannover,Hoffenheim,H,True
+557,2011-12-10,Nurnberg,Hoffenheim,A,True
+558,2011-08-20,Augsburg,Hoffenheim,A,False
+559,2012-04-15,Freiburg,Hoffenheim,D,False
+560,2012-02-25,Wolfsburg,Hoffenheim,A,False
+561,2011-12-04,Dresden,Frankfurt FSV,D,False
+562,2011-09-18,Munich 1860,Frankfurt FSV,H,True
+563,2011-11-20,Greuther Furth,Frankfurt FSV,H,False
+564,2011-08-27,Karlsruhe,Frankfurt FSV,A,True
+565,2012-02-03,Duisburg,Frankfurt FSV,A,False
+566,2011-10-23,St Pauli,Frankfurt FSV,H,True
+567,2012-03-16,Braunschweig,Frankfurt FSV,D,False
+568,2011-08-14,Ingolstadt,Frankfurt FSV,D,True
+569,2011-12-10,Union Berlin,Frankfurt FSV,H,True
+570,2011-09-30,Aachen,Frankfurt FSV,A,False
+571,2012-03-04,Erzgebirge Aue,Frankfurt FSV,H,False
+572,2012-02-18,Ein Frankfurt,Frankfurt FSV,H,False
+573,2012-04-29,Paderborn,Frankfurt FSV,H,False
+574,2012-04-01,Cottbus,Frankfurt FSV,D,False
+575,2011-07-22,Bochum,Frankfurt FSV,H,True
+576,2012-04-13,Hansa Rostock,Frankfurt FSV,A,False
+577,2012-04-10,Fortuna Dusseldorf,Frankfurt FSV,H,False
+578,2012-03-23,Bochum,Ingolstadt,A,False
+579,2011-11-27,Cottbus,Ingolstadt,D,False
+580,2011-10-15,Duisburg,Ingolstadt,H,False
+581,2011-11-04,Karlsruhe,Ingolstadt,H,False
+582,2011-08-19,Greuther Furth,Ingolstadt,H,True
+583,2012-02-10,Frankfurt FSV,Ingolstadt,D,False
+584,2011-12-16,Erzgebirge Aue,Ingolstadt,D,True
+585,2011-09-11,Union Berlin,Ingolstadt,H,True
+586,2011-07-16,St Pauli,Ingolstadt,H,False
+587,2012-03-11,Dresden,Ingolstadt,D,False
+588,2011-09-23,Paderborn,Ingolstadt,H,False
+589,2012-04-11,Ein Frankfurt,Ingolstadt,D,False
+590,2011-10-23,Aachen,Ingolstadt,H,True
+591,2012-05-06,Braunschweig,Ingolstadt,H,True
+592,2011-08-05,Fortuna Dusseldorf,Ingolstadt,H,True
+593,2012-02-24,Hansa Rostock,Ingolstadt,A,True
+594,2012-04-21,Munich 1860,Ingolstadt,H,False
+595,2012-04-29,Greuther Furth,Fortuna Dusseldorf,D,False
+596,2011-10-17,St Pauli,Fortuna Dusseldorf,A,False
+597,2011-12-05,Duisburg,Fortuna Dusseldorf,A,False
+598,2012-04-16,Dresden,Fortuna Dusseldorf,H,False
+599,2011-10-30,Frankfurt FSV,Fortuna Dusseldorf,A,True
+600,2012-04-05,Hansa Rostock,Fortuna Dusseldorf,H,False
+601,2012-02-04,Ingolstadt,Fortuna Dusseldorf,D,False
+602,2011-10-03,Braunschweig,Fortuna Dusseldorf,D,False
+603,2012-03-03,Karlsruhe,Fortuna Dusseldorf,A,False
+604,2012-03-19,Cottbus,Fortuna Dusseldorf,D,False
+605,2011-11-19,Union Berlin,Fortuna Dusseldorf,D,False
+606,2012-02-19,Munich 1860,Fortuna Dusseldorf,H,True
+607,2011-07-24,Paderborn,Fortuna Dusseldorf,D,False
+608,2011-12-10,Bochum,Fortuna Dusseldorf,D,True
+609,2011-08-15,Ein Frankfurt,Fortuna Dusseldorf,D,True
+610,2011-08-27,Aachen,Fortuna Dusseldorf,D,True
+611,2011-09-16,Erzgebirge Aue,Fortuna Dusseldorf,A,False
+612,2011-08-13,Blackburn,Wolves,A,False
+613,2011-08-13,Fulham,Aston Villa,D,False
+614,2011-08-13,Liverpool,Sunderland,D,False
+615,2011-08-13,Newcastle,Arsenal,D,False
+616,2011-08-13,QPR,Bolton,A,False
+617,2011-08-13,Wigan,Norwich,D,False
+618,2011-08-14,Stoke,Chelsea,D,True
+619,2011-08-14,West Brom,Man United,A,True
+620,2011-08-15,Man City,Swansea,H,True
+621,2011-08-20,Arsenal,Liverpool,A,False
+622,2011-08-20,Aston Villa,Blackburn,H,False
+623,2011-08-20,Chelsea,West Brom,H,False
+624,2011-08-20,Everton,QPR,A,False
+625,2011-08-20,Sunderland,Newcastle,A,False
+626,2011-08-20,Swansea,Wigan,D,False
+627,2011-08-21,Bolton,Man City,A,False
+628,2011-08-21,Norwich,Stoke,D,False
+629,2011-08-21,Wolves,Fulham,H,False
+630,2011-08-22,Man United,Tottenham,H,False
+631,2011-08-27,Aston Villa,Wolves,D,True
+632,2011-08-27,Blackburn,Everton,A,True
+633,2011-08-27,Chelsea,Norwich,H,True
+634,2011-08-27,Liverpool,Bolton,H,True
+635,2011-08-27,Swansea,Sunderland,D,True
+636,2011-08-27,Wigan,QPR,H,True
+637,2011-08-28,Man United,Arsenal,H,False
+638,2011-08-28,Newcastle,Fulham,H,False
+639,2011-08-28,Tottenham,Man City,A,False
+640,2011-08-28,West Brom,Stoke,A,False
+641,2011-09-10,Arsenal,Swansea,H,True
+642,2011-09-10,Bolton,Man United,A,True
+643,2011-09-10,Everton,Aston Villa,D,True
+644,2011-09-10,Man City,Wigan,H,True
+645,2011-09-10,Stoke,Liverpool,H,True
+646,2011-09-10,Sunderland,Chelsea,A,True
+647,2011-09-10,Wolves,Tottenham,A,True
+648,2011-09-11,Fulham,Blackburn,D,True
+649,2011-09-11,Norwich,West Brom,A,True
+650,2011-09-12,QPR,Newcastle,D,True
+651,2011-09-17,Aston Villa,Newcastle,D,False
+652,2011-09-17,Blackburn,Arsenal,H,False
+653,2011-09-17,Bolton,Norwich,A,False
+654,2011-09-17,Everton,Wigan,H,False
+655,2011-09-17,Swansea,West Brom,H,False
+656,2011-09-17,Wolves,QPR,A,False
+657,2011-09-18,Fulham,Man City,D,True
+658,2011-09-18,Man United,Chelsea,H,True
+659,2011-09-18,Sunderland,Stoke,H,True
+660,2011-09-18,Tottenham,Liverpool,H,True
+661,2011-09-24,Arsenal,Bolton,H,False
+662,2011-09-24,Chelsea,Swansea,H,False
+663,2011-09-24,Liverpool,Wolves,H,False
+664,2011-09-24,Man City,Everton,H,False
+665,2011-09-24,Newcastle,Blackburn,H,False
+666,2011-09-24,Stoke,Man United,D,False
+667,2011-09-24,West Brom,Fulham,D,False
+668,2011-09-24,Wigan,Tottenham,A,False
+669,2011-09-25,QPR,Aston Villa,D,False
+670,2011-09-26,Norwich,Sunderland,H,False
+671,2011-10-01,Aston Villa,Wigan,H,False
+672,2011-10-01,Blackburn,Man City,A,False
+673,2011-10-01,Everton,Liverpool,A,False
+674,2011-10-01,Man United,Norwich,H,False
+675,2011-10-01,Sunderland,West Brom,D,False
+676,2011-10-01,Wolves,Newcastle,A,False
+677,2011-10-02,Bolton,Chelsea,A,False
+678,2011-10-02,Fulham,QPR,H,False
+679,2011-10-02,Swansea,Stoke,H,False
+680,2011-10-02,Tottenham,Arsenal,H,False
+681,2011-10-15,Chelsea,Everton,H,False
+682,2011-10-15,Liverpool,Man United,D,False
+683,2011-10-15,Man City,Aston Villa,H,False
+684,2011-10-15,Norwich,Swansea,H,False
+685,2011-10-15,QPR,Blackburn,D,False
+686,2011-10-15,Stoke,Fulham,H,False
+687,2011-10-15,Wigan,Bolton,A,False
+688,2011-10-16,Arsenal,Sunderland,H,True
+689,2011-10-16,Newcastle,Tottenham,D,True
+690,2011-10-16,West Brom,Wolves,H,True
+691,2011-10-22,Aston Villa,West Brom,A,False
+692,2011-10-22,Bolton,Sunderland,A,False
+693,2011-10-22,Liverpool,Norwich,D,False
+694,2011-10-22,Newcastle,Wigan,H,False
+695,2011-10-22,Wolves,Swansea,D,False
+696,2011-10-23,Arsenal,Stoke,H,True
+697,2011-10-23,Blackburn,Tottenham,A,True
+698,2011-10-23,Fulham,Everton,A,True
+699,2011-10-23,Man United,Man City,A,True
+700,2011-10-23,QPR,Chelsea,H,True
+701,2011-10-29,Chelsea,Arsenal,A,False
+702,2011-10-29,Everton,Man United,A,False
+703,2011-10-29,Man City,Wolves,H,False
+704,2011-10-29,Norwich,Blackburn,D,False
+705,2011-10-29,Sunderland,Aston Villa,D,False
+706,2011-10-29,Swansea,Bolton,H,False
+707,2011-10-29,West Brom,Liverpool,A,False
+708,2011-10-29,Wigan,Fulham,A,False
+709,2011-10-30,Tottenham,QPR,H,True
+710,2011-10-31,Stoke,Newcastle,A,False
+711,2011-11-05,Arsenal,West Brom,H,True
+712,2011-11-05,Aston Villa,Norwich,H,True
+713,2011-11-05,Blackburn,Chelsea,A,True
+714,2011-11-05,Liverpool,Swansea,D,True
+715,2011-11-05,Man United,Sunderland,H,True
+716,2011-11-05,Newcastle,Everton,H,True
+717,2011-11-05,QPR,Man City,A,True
+718,2011-11-06,Bolton,Stoke,H,True
+719,2011-11-06,Fulham,Tottenham,A,True
+720,2011-11-06,Wolves,Wigan,H,True
+721,2011-11-19,Everton,Wolves,H,False
+722,2011-11-19,Man City,Newcastle,H,False
+723,2011-11-19,Norwich,Arsenal,A,False
+724,2011-11-19,Stoke,QPR,A,False
+725,2011-11-19,Sunderland,Fulham,D,False
+726,2011-11-19,Swansea,Man United,A,False
+727,2011-11-19,West Brom,Bolton,H,False
+728,2011-11-19,Wigan,Blackburn,D,False
+729,2011-11-20,Chelsea,Liverpool,A,False
+730,2011-11-21,Tottenham,Aston Villa,H,False
+731,2011-11-26,Arsenal,Fulham,D,True
+732,2011-11-26,Bolton,Everton,A,True
+733,2011-11-26,Chelsea,Wolves,H,True
+734,2011-11-26,Man United,Newcastle,D,True
+735,2011-11-26,Norwich,QPR,H,True
+736,2011-11-26,Stoke,Blackburn,H,True
+737,2011-11-26,Sunderland,Wigan,A,True
+738,2011-11-26,West Brom,Tottenham,A,True
+739,2011-11-27,Liverpool,Man City,D,False
+740,2011-11-27,Swansea,Aston Villa,D,False
+741,2011-12-03,Aston Villa,Man United,A,True
+742,2011-12-03,Blackburn,Swansea,H,True
+743,2011-12-03,Man City,Norwich,H,True
+744,2011-12-03,Newcastle,Chelsea,A,True
+745,2011-12-03,QPR,West Brom,D,True
+746,2011-12-03,Tottenham,Bolton,H,True
+747,2011-12-03,Wigan,Arsenal,A,True
+748,2011-12-04,Everton,Stoke,A,False
+749,2011-12-04,Wolves,Sunderland,H,False
+750,2011-12-05,Fulham,Liverpool,H,False
+751,2011-12-10,Arsenal,Everton,H,True
+752,2011-12-10,Bolton,Aston Villa,A,True
+753,2011-12-10,Liverpool,QPR,H,True
+754,2011-12-10,Man United,Wolves,H,True
+755,2011-12-10,Norwich,Newcastle,H,True
+756,2011-12-10,Swansea,Fulham,H,True
+757,2011-12-10,West Brom,Wigan,A,True
+758,2011-12-11,Stoke,Tottenham,H,False
+759,2011-12-11,Sunderland,Blackburn,H,False
+760,2011-12-12,Chelsea,Man City,H,True
+761,2011-12-17,Blackburn,West Brom,A,True
+762,2011-12-17,Everton,Norwich,D,True
+763,2011-12-17,Fulham,Bolton,H,True
+764,2011-12-17,Newcastle,Swansea,D,True
+765,2011-12-17,Wigan,Chelsea,D,True
+766,2011-12-17,Wolves,Stoke,A,True
+767,2011-12-18,Aston Villa,Liverpool,A,True
+768,2011-12-18,Man City,Arsenal,H,True
+769,2011-12-18,QPR,Man United,A,True
+770,2011-12-18,Tottenham,Sunderland,H,True
+771,2011-12-20,Blackburn,Bolton,A,False
+772,2011-12-20,Wolves,Norwich,D,False
+773,2011-12-21,Aston Villa,Arsenal,A,True
+774,2011-12-21,Everton,Swansea,H,True
+775,2011-12-21,Fulham,Man United,A,True
+776,2011-12-21,Man City,Stoke,H,True
+777,2011-12-21,Newcastle,West Brom,A,True
+778,2011-12-21,QPR,Sunderland,A,True
+779,2011-12-21,Wigan,Liverpool,D,True
+780,2011-12-22,Tottenham,Chelsea,D,False
+781,2011-12-26,Bolton,Newcastle,A,True
+782,2011-12-26,Chelsea,Fulham,D,True
+783,2011-12-26,Liverpool,Blackburn,D,True
+784,2011-12-26,Man United,Wigan,H,True
+785,2011-12-26,Stoke,Aston Villa,D,True
+786,2011-12-26,Sunderland,Everton,D,True
+787,2011-12-26,West Brom,Man City,D,True
+788,2011-12-27,Arsenal,Wolves,D,False
+789,2011-12-27,Norwich,Tottenham,A,False
+790,2011-12-27,Swansea,QPR,D,False
+791,2011-12-30,Liverpool,Newcastle,H,True
+792,2011-12-31,Arsenal,QPR,H,False
+793,2011-12-31,Bolton,Wolves,D,False
+794,2011-12-31,Chelsea,Aston Villa,A,False
+795,2011-12-31,Man United,Blackburn,A,False
+796,2011-12-31,Norwich,Fulham,D,False
+797,2011-12-31,Stoke,Wigan,D,False
+798,2011-12-31,Swansea,Tottenham,D,False
+799,2012-01-01,Sunderland,Man City,H,True
+800,2012-01-01,West Brom,Everton,A,True
+801,2012-01-02,Aston Villa,Swansea,A,True
+802,2012-01-02,Blackburn,Stoke,A,True
+803,2012-01-02,Fulham,Arsenal,H,True
+804,2012-01-02,QPR,Norwich,A,True
+805,2012-01-02,Wolves,Chelsea,A,True
+806,2012-01-03,Man City,Liverpool,H,True
+807,2012-01-03,Tottenham,West Brom,H,True
+808,2012-01-03,Wigan,Sunderland,A,True
+809,2012-01-04,Everton,Bolton,A,True
+810,2012-01-04,Newcastle,Man United,H,True
+811,2012-01-11,Tottenham,Everton,H,False
+812,2012-01-14,Aston Villa,Everton,D,False
+813,2012-01-14,Blackburn,Fulham,H,False
+814,2012-01-14,Chelsea,Sunderland,H,False
+815,2012-01-14,Liverpool,Stoke,D,False
+816,2012-01-14,Man United,Bolton,H,False
+817,2012-01-14,Tottenham,Wolves,D,False
+818,2012-01-14,West Brom,Norwich,A,False
+819,2012-01-15,Newcastle,QPR,H,False
+820,2012-01-15,Swansea,Arsenal,H,False
+821,2012-01-16,Wigan,Man City,A,True
+822,2012-01-21,Bolton,Liverpool,H,False
+823,2012-01-21,Everton,Blackburn,D,False
+824,2012-01-21,Fulham,Newcastle,H,False
+825,2012-01-21,Norwich,Chelsea,D,False
+826,2012-01-21,QPR,Wigan,H,False
+827,2012-01-21,Stoke,West Brom,A,False
+828,2012-01-21,Sunderland,Swansea,H,False
+829,2012-01-21,Wolves,Aston Villa,A,False
+830,2012-01-22,Arsenal,Man United,A,True
+831,2012-01-22,Man City,Tottenham,H,True
+832,2012-01-31,Everton,Man City,H,False
+833,2012-01-31,Man United,Stoke,H,False
+834,2012-01-31,Swansea,Chelsea,D,False
+835,2012-01-31,Tottenham,Wigan,H,False
+836,2012-01-31,Wolves,Liverpool,A,False
+837,2012-02-01,Aston Villa,QPR,D,False
+838,2012-02-01,Blackburn,Newcastle,A,False
+839,2012-02-01,Bolton,Arsenal,D,False
+840,2012-02-01,Fulham,West Brom,D,False
+841,2012-02-01,Sunderland,Norwich,H,False
+842,2012-02-04,Arsenal,Blackburn,H,False
+843,2012-02-04,Man City,Fulham,H,False
+844,2012-02-04,Norwich,Bolton,H,False
+845,2012-02-04,QPR,Wolves,A,False
+846,2012-02-04,Stoke,Sunderland,A,False
+847,2012-02-04,West Brom,Swansea,A,False
+848,2012-02-04,Wigan,Everton,D,False
+849,2012-02-05,Chelsea,Man United,D,False
+850,2012-02-05,Newcastle,Aston Villa,H,False
+851,2012-02-06,Liverpool,Tottenham,D,False
+852,2012-02-11,Blackburn,QPR,H,False
+853,2012-02-11,Bolton,Wigan,A,False
+854,2012-02-11,Everton,Chelsea,H,False
+855,2012-02-11,Fulham,Stoke,H,False
+856,2012-02-11,Man United,Liverpool,H,False
+857,2012-02-11,Sunderland,Arsenal,A,False
+858,2012-02-11,Swansea,Norwich,A,False
+859,2012-02-11,Tottenham,Newcastle,H,False
+860,2012-02-12,Aston Villa,Man City,A,False
+861,2012-02-12,Wolves,West Brom,A,False
+862,2012-02-25,Chelsea,Bolton,H,False
+863,2012-02-25,Man City,Blackburn,H,False
+864,2012-02-25,Newcastle,Wolves,D,False
+865,2012-02-25,QPR,Fulham,A,False
+866,2012-02-25,West Brom,Sunderland,H,False
+867,2012-02-25,Wigan,Aston Villa,D,False
+868,2012-02-26,Arsenal,Tottenham,H,False
+869,2012-02-26,Norwich,Man United,A,False
+870,2012-02-26,Stoke,Swansea,H,False
+871,2012-03-03,Blackburn,Aston Villa,D,False
+872,2012-03-03,Liverpool,Arsenal,A,False
+873,2012-03-03,Man City,Bolton,H,False
+874,2012-03-03,QPR,Everton,D,False
+875,2012-03-03,Stoke,Norwich,H,False
+876,2012-03-03,West Brom,Chelsea,H,False
+877,2012-03-03,Wigan,Swansea,A,False
+878,2012-03-04,Fulham,Wolves,H,False
+879,2012-03-04,Newcastle,Sunderland,D,False
+880,2012-03-04,Tottenham,Man United,A,False
+881,2012-03-10,Aston Villa,Fulham,H,False
+882,2012-03-10,Bolton,QPR,H,False
+883,2012-03-10,Chelsea,Stoke,H,False
+884,2012-03-10,Everton,Tottenham,H,False
+885,2012-03-10,Sunderland,Liverpool,H,False
+886,2012-03-10,Wolves,Blackburn,A,False
+887,2012-03-11,Man United,West Brom,H,False
+888,2012-03-11,Norwich,Wigan,D,False
+889,2012-03-11,Swansea,Man City,H,False
+890,2012-03-12,Arsenal,Newcastle,H,True
+891,2012-03-13,Liverpool,Everton,H,False
+892,2012-03-17,Fulham,Swansea,A,False
+893,2012-03-17,Wigan,West Brom,D,False
+894,2012-03-18,Newcastle,Norwich,H,False
+895,2012-03-18,Wolves,Man United,A,False
+896,2012-03-20,Blackburn,Sunderland,H,False
+897,2012-03-21,Everton,Arsenal,A,False
+898,2012-03-21,Man City,Chelsea,H,False
+899,2012-03-21,QPR,Liverpool,H,False
+900,2012-03-21,Tottenham,Stoke,D,False
+901,2012-03-24,Arsenal,Aston Villa,H,False
+902,2012-03-24,Bolton,Blackburn,H,False
+903,2012-03-24,Chelsea,Tottenham,D,False
+904,2012-03-24,Liverpool,Wigan,A,False
+905,2012-03-24,Norwich,Wolves,H,False
+906,2012-03-24,Stoke,Man City,D,False
+907,2012-03-24,Sunderland,QPR,H,False
+908,2012-03-24,Swansea,Everton,A,False
+909,2012-03-25,West Brom,Newcastle,A,False
+910,2012-03-26,Man United,Fulham,H,False
+911,2012-03-31,Aston Villa,Chelsea,A,True
+912,2012-03-31,Everton,West Brom,H,True
+913,2012-03-31,Fulham,Norwich,H,True
+914,2012-03-31,Man City,Sunderland,D,True
+915,2012-03-31,QPR,Arsenal,H,True
+916,2012-03-31,Wigan,Stoke,H,True
+917,2012-03-31,Wolves,Bolton,A,True
+918,2012-04-01,Newcastle,Liverpool,H,False
+919,2012-04-01,Tottenham,Swansea,H,False
+920,2012-04-02,Blackburn,Man United,A,True
+921,2012-04-06,Swansea,Newcastle,A,False
+922,2012-04-07,Bolton,Fulham,A,False
+923,2012-04-07,Chelsea,Wigan,H,False
+924,2012-04-07,Liverpool,Aston Villa,D,False
+925,2012-04-07,Norwich,Everton,D,False
+926,2012-04-07,Stoke,Wolves,H,False
+927,2012-04-07,Sunderland,Tottenham,D,False
+928,2012-04-07,West Brom,Blackburn,H,False
+929,2012-04-08,Arsenal,Man City,H,False
+930,2012-04-08,Man United,QPR,H,False
+931,2012-04-09,Aston Villa,Stoke,D,False
+932,2012-04-09,Everton,Sunderland,H,False
+933,2012-04-09,Fulham,Chelsea,D,False
+934,2012-04-09,Newcastle,Bolton,H,False
+935,2012-04-09,Tottenham,Norwich,A,False
+936,2012-04-10,Blackburn,Liverpool,A,False
+937,2012-04-11,Man City,West Brom,H,False
+938,2012-04-11,QPR,Swansea,H,False
+939,2012-04-11,Wigan,Man United,H,False
+940,2012-04-11,Wolves,Arsenal,A,False
+941,2012-04-14,Norwich,Man City,A,False
+942,2012-04-14,Sunderland,Wolves,D,False
+943,2012-04-14,Swansea,Blackburn,H,False
+944,2012-04-14,West Brom,QPR,H,False
+945,2012-04-15,Man United,Aston Villa,H,False
+946,2012-04-16,Arsenal,Wigan,A,False
+947,2012-04-21,Arsenal,Chelsea,D,False
+948,2012-04-21,Aston Villa,Sunderland,D,False
+949,2012-04-21,Blackburn,Norwich,H,False
+950,2012-04-21,Bolton,Swansea,D,False
+951,2012-04-21,Fulham,Wigan,H,False
+952,2012-04-21,Newcastle,Stoke,H,False
+953,2012-04-21,QPR,Tottenham,H,False
+954,2012-04-22,Liverpool,West Brom,A,False
+955,2012-04-22,Man United,Everton,D,False
+956,2012-04-22,Wolves,Man City,A,False
+957,2012-04-24,Aston Villa,Bolton,A,True
+958,2012-04-28,Everton,Fulham,H,False
+959,2012-04-28,Norwich,Liverpool,A,False
+960,2012-04-28,Stoke,Arsenal,D,False
+961,2012-04-28,Sunderland,Bolton,D,False
+962,2012-04-28,Swansea,Wolves,D,False
+963,2012-04-28,West Brom,Aston Villa,D,False
+964,2012-04-28,Wigan,Newcastle,H,False
+965,2012-04-29,Chelsea,QPR,H,False
+966,2012-04-29,Tottenham,Blackburn,H,False
+967,2012-04-30,Man City,Man United,H,False
+968,2012-05-01,Liverpool,Fulham,A,False
+969,2012-05-01,Stoke,Everton,D,False
+970,2012-05-02,Bolton,Tottenham,A,False
+971,2012-05-02,Chelsea,Newcastle,A,False
+972,2012-05-05,Arsenal,Norwich,D,True
+973,2012-05-06,Aston Villa,Tottenham,D,True
+974,2012-05-06,Bolton,West Brom,D,True
+975,2012-05-06,Fulham,Sunderland,H,True
+976,2012-05-06,Man United,Swansea,H,True
+977,2012-05-06,Newcastle,Man City,A,True
+978,2012-05-06,QPR,Stoke,H,True
+979,2012-05-06,Wolves,Everton,D,True
+980,2012-05-07,Blackburn,Wigan,A,False
+981,2012-05-08,Liverpool,Chelsea,H,False
+982,2012-05-13,Chelsea,Blackburn,H,False
+983,2012-05-13,Everton,Newcastle,H,False
+984,2012-05-13,Man City,QPR,H,False
+985,2012-05-13,Norwich,Aston Villa,H,False
+986,2012-05-13,Stoke,Bolton,D,False
+987,2012-05-13,Sunderland,Man United,A,False
+988,2012-05-13,Swansea,Liverpool,H,False
+989,2012-05-13,Tottenham,Fulham,H,False
+990,2012-05-13,West Brom,Arsenal,A,False
+991,2012-05-13,Wigan,Wolves,H,False
