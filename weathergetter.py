@@ -5,7 +5,7 @@ import json
 
 # load secret key
 with open("~/.secrets/dark_sky_api.json", "r") as f:
-    key = json.load(f)['Secret Key']
+    key = json.load(f)['key']
 
 class WeatherGetter():
     """This class gets the weather for Berlin. Using Dark Sky's API"""
